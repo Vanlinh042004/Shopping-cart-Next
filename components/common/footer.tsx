@@ -7,8 +7,12 @@ export function Footer(): JSX.Element {
                  text-secondary inner:flex inner:items-center inner:gap-2
                  inner:transition-colors hover:inner:text-primary'
     >
-      <a href='https://github.com/ccrsxx' target='_blank' rel='noreferrer'>
-        <RiGithubFill /> ccrsxx
+      <a
+        href='https://github.com/Vanlinh042004'
+        target='_blank'
+        rel='noreferrer'
+      >
+        <RiGithubFill /> vanlinh
       </a>
       <a href='https://fakestoreapi.com' target='_blank' rel='noreferrer'>
         <MdApi />
